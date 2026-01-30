@@ -44,3 +44,9 @@ Highly affluent customers with very high spending on premium and quality-focused
 <h1>Key Insight</h1>
 
 Clustering reveals distinct customer behaviors that enable targeted marketing, improved product positioning, and more effective customer engagement.
+
+<h1>Medium</h1>
+
+Read this project article on:
+- [Medium](https://medium.com/@anarusdiati/turning-marketing-data-into-actionable-insights-cd11b007641a)
+- [Kaggle Notebook](https://www.kaggle.com/code/anarusdiati/marketing-campaign-clustering)
